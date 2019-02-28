@@ -1,0 +1,21 @@
+  1. cara push
+	> buat repository baru di github.com
+	> masukkan file yang akan diupload
+	> buka cmd, ketik 'git init'
+	> setelah itu ketik 'git add *'
+	> lalu "git commit -m '(masukkan comment)"'
+	> lalu ketik 'git remote add origin (masukkan link)'
+	> terakhir 'git push origin master'
+	> refresh halaman github, repository akan muncul
+	
+
+  2. cara clone 
+	> buka akun github yang akan anda clone projectnya
+	> klik button clone or download
+	> copy link projectnya
+	> buat folder baru di pc/laptop anda
+	> buka cmd, ketik 'git clone (masukkan link)'
+	> buka folder yang sudah dibuat, project yang anda clone sudah tersedia
+
+	            
+		Happy tryinggggggg
